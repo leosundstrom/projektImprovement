@@ -1,0 +1,14 @@
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\bin\Debug\net6.0\projektImprovement.exe
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\bin\Debug\net6.0\projektImprovement.deps.json
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\bin\Debug\net6.0\projektImprovement.runtimeconfig.json
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\bin\Debug\net6.0\projektImprovement.dll
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\bin\Debug\net6.0\projektImprovement.pdb
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.AssemblyInfoInputs.cache
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.AssemblyInfo.cs
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.csproj.CoreCompileInputs.cache
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.dll
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\refint\projektImprovement.dll
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.pdb
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\projektImprovement.genruntimeconfig.cache
+c:\Users\leo.sundstrom\Documents\VSCode\projektImprovement\projektImprovement\obj\Debug\net6.0\ref\projektImprovement.dll
